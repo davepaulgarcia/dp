@@ -1,0 +1,16 @@
+export default {
+  ROUTE_ADMIN             : 'admin',
+  ROUTE_LANDING           : 'landing',
+  ROUTE_BOOK              : 'book',
+  ROUTE_LOG_IN            : 'login',
+  ROUTE_ADMIN_DASHBOARD   : 'admin/dashboard',
+  ROUTE_ADMIN_REPORT      : 'admin/report',
+  ROUTE_ADMIN_VILLAS      : 'admin/villas',
+  ROUTE_ADMIN_DISCOUNT    : 'admin/discount',
+  ROUTE_ADMIN_ACCOUNT     : 'admin/account',
+  ROUTE_ADMIN_BILLING     : 'admin/billing',
+  ROUTE_ADMIN_PENDING     : 'admin/pending',
+  ROUTE_ADMIN_RESERVED    : 'admin/reserved',
+  ROUTE_ADMIN_CHECKED_IN  : 'admin/checked-in',
+  ROUTE_ADMIN_CHECKED_OUT : 'admin/checked-out',
+}
